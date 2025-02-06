@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
                     <Link href="/api">API</Link>
                   </li>
                   <li>
-                    <Link href="/route">Routing</Link>
+                    <Link href="/blog">Blog</Link>
                   </li>
                   <li>
                     <Link href="/weather">Weather</Link>
